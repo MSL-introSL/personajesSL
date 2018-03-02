@@ -12,7 +12,7 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Patrick Volderding|Mario Sigala | |
 | Theo de Raadt | | |
 | Alan Cox|Mario Sigala | |
-| Guido Van Rossum |Javier Garza | |
+| Guido Van Rossum |Javier Garza |file:///C:/Users/Javier.Garza/Desktop/UACH/Miguel%20de%20Icaza%20y%20Guido%20Van%20Rossum.htm |
 | Miguel de Icaza| Javier Garza| |
 | Lennart Poettering | | |
 
