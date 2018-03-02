@@ -9,9 +9,9 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Eric Raymond     |       |    |
 | Mark Shuttleworth |       |     |
 | Ian Murdock | | |
-| Patrick Volderding| | |
+| Patrick Volderding|Mario Sigala | |
 | Theo de Raadt | | |
-| Alan Cox| | |
+| Alan Cox|Mario Sigala | |
 | Guido Van Rossum |Javier Garza | |
 | Miguel de Icaza| Javier Garza| |
 | Lennart Poettering | | |
